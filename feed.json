@@ -53,13 +53,14 @@
                 "name": "Nami"
             },
             "tags": [
+                   "kesehatan",
                    "diet sehat",
                    "cara menurunkan berat badan",
                    "cara diet sehat",
                    "cara diet"
             ],
             "date_published": "2023-05-04T00:56:23+07:00",
-            "date_modified": "2023-05-12T17:29:45+07:00"
+            "date_modified": "2023-05-12T18:47:43+07:00"
         },
         {
             "id": "https://imanoise.github.io/kombinasi-warna-outfit-tips-untuk-tampil-stylish-dan-menarik-perhatian.html",
@@ -75,10 +76,11 @@
                    "outfit",
                    "kombinasi warna outfit aesthetic",
                    "kombinasi warna outfit",
-                   "kombinasi outfit"
+                   "kombinasi outfit",
+                   "Fashion"
             ],
             "date_published": "2023-05-02T17:50:22+07:00",
-            "date_modified": "2023-05-12T17:34:05+07:00"
+            "date_modified": "2023-05-12T18:48:35+07:00"
         },
         {
             "id": "https://imanoise.github.io/cara-merawat-bibir-7-tips-untuk-mengatasi-bibir-hitam-dan-kering-secara-alami.html",
@@ -93,10 +95,11 @@
             "tags": [
                    "cara merawat bibir kering",
                    "cara merawat bibir",
-                   "cara hilangkan bibir hitam"
+                   "cara hilangkan bibir hitam",
+                   "Kecantikan"
             ],
             "date_published": "2023-05-02T01:42:31+07:00",
-            "date_modified": "2023-05-12T18:34:43+07:00"
+            "date_modified": "2023-05-12T18:49:03+07:00"
         },
         {
             "id": "https://imanoise.github.io/cara-make-up-sederhana-tapi-cantik.html",
@@ -110,10 +113,11 @@
             },
             "tags": [
                    "make up simpel",
-                   "Make up"
+                   "Make up",
+                   "Kecantikan"
             ],
             "date_published": "2023-05-02T00:18:40+07:00",
-            "date_modified": "2023-05-12T18:35:20+07:00"
+            "date_modified": "2023-05-12T18:49:24+07:00"
         },
         {
             "id": "https://imanoise.github.io/jenis-sepatu-kets-wanita-pria-dan-anak-anak-pilihan-terbaik-anda.html",
@@ -131,10 +135,11 @@
                    "sepatu kets anak",
                    "sepatu ket",
                    "macam macam sepatu kets",
-                   "jenis sepatu kets"
+                   "jenis sepatu kets",
+                   "Fashion"
             ],
             "date_published": "2023-05-01T22:35:28+07:00",
-            "date_modified": "2023-05-12T17:41:50+07:00"
+            "date_modified": "2023-05-12T18:50:10+07:00"
         },
         {
             "id": "https://imanoise.github.io/jenis-parfum-tahan-lama-pilihan-terbaik-untuk-tampil-semakin-percaya-diri.html",
@@ -152,10 +157,11 @@
                    "parfum wanita tahan lama",
                    "parfum tahan lama",
                    "parfum pria tahan lama",
-                   "minyak wangi tahan lama"
+                   "minyak wangi tahan lama",
+                   "Fashion"
             ],
             "date_published": "2023-05-01T21:51:45+07:00",
-            "date_modified": "2023-05-12T17:44:04+07:00"
+            "date_modified": "2023-05-12T18:50:37+07:00"
         },
         {
             "id": "https://imanoise.github.io/cara-menanam-vanili-dengan-sabut-kelapa-agar-cepat-berbuah-yang-benar-di-lahan-yang-sempit.html",
@@ -170,10 +176,11 @@
             "tags": [
                    "cara mencuci spons makeup",
                    "cara mencuci spons make up",
-                   "cara mencuci spon make up"
+                   "cara mencuci spon make up",
+                   "Fashion"
             ],
             "date_published": "2023-04-28T22:19:44+07:00",
-            "date_modified": "2023-05-12T17:47:18+07:00"
+            "date_modified": "2023-05-12T18:51:04+07:00"
         },
         {
             "id": "https://imanoise.github.io/cara-menanam-vanili-untuk-pemula.html",
@@ -188,10 +195,11 @@
             "tags": [
                    "cara memakai jilbab segi empat agar rapi",
                    "cara memakai jilbab segi empat",
-                   "cara memakai jilbab"
+                   "cara memakai jilbab",
+                   "Fashion"
             ],
             "date_published": "2023-04-28T21:58:48+07:00",
-            "date_modified": "2023-05-12T17:49:22+07:00"
+            "date_modified": "2023-05-12T18:51:23+07:00"
         }
     ]
 }
