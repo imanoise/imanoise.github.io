@@ -3,12 +3,35 @@
     <title>HOME</title>
     <link href="https://imanoise.github.io/feed.xml" rel="self" />
     <link href="https://imanoise.github.io" />
-    <updated>2023-05-12T17:49:22+07:00</updated>
+    <updated>2023-05-12T18:16:35+07:00</updated>
     <author>
         <name>Nami</name>
     </author>
     <id>https://imanoise.github.io</id>
 
+    <entry>
+        <title>Tentang Kami</title>
+        <author>
+            <name>Nami</name>
+        </author>
+        <link href="https://imanoise.github.io/tentang-kami.html"/>
+        <id>https://imanoise.github.io/tentang-kami.html</id>
+
+        <updated>2023-05-12T18:16:35+07:00</updated>
+            <summary>
+                <![CDATA[
+                    Dalam era digital saat ini, menjadi penulis semakin mudah karena adanya platform online yang memungkinkan seseorang untuk mempublikasikan tulisan mereka&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Dalam era digital saat ini, menjadi penulis semakin mudah karena adanya platform online yang memungkinkan seseorang untuk mempublikasikan tulisan mereka secara online. Namun, hal ini juga berarti persaingan semakin ketat karena banyak orang yang juga ingin menjadi penulis dan mempublikasikan karyanya secara online.</p>
+<p>Secara keseluruhan, menjadi penulis adalah profesi yang menarik dan menantang. Seorang penulis dapat menghasilkan karya-karya yang dapat mempengaruhi dan menginspirasi banyak orang. Namun, untuk menjadi penulis yang sukses, seseorang harus memiliki kemampuan menulis yang baik, wawasan yang luas, ketekunan, dan disiplin dalam menulis.</p>
+<p>Best regards</p>
+<p>Nami</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Lingerie: Apa Itu dan Berbagai Macamnya?</title>
         <author>
