@@ -2442,3 +2442,24 @@ textarea {
 .pswp--light .pswp__caption__center {
   color: var(--dark);
 }
+/* Breadcrumb */
+.breadcrumbs {
+  display: flex;
+  justify-content: flex-start;
+  list-style: none;
+  margin: 0 auto;
+  width: fit-content;
+  font-size: 0.7901234568rem;
+}
+
+.breadcrumbs li {
+  padding-right: 0.5rem;
+}
+
+.breadcrumbs li:nth-child(1) {
+  padding-left: 0;
+}
+/* /Breadcrumb */
+/* Readmore */
+.read-more{max-height:120px;position:relative;overflow:hidden}.read-more .prompt{position:absolute;bottom:0;left:0;width:100%;text-align:center;margin:0;padding-top:60px;padding-bottom:9px;background-image:linear-gradient(to bottom,rgba(255,255,255,0),white)}.read-more .prompt .button{border-radius:99px;}.read-more.big-preview{max-height:240px}.read-more.big-preview .prompt{padding-top:140px}
+/* /Readmore */
