@@ -3,7 +3,7 @@
     <title>hobikamu.id</title>
     <link href="https://www.hobikamu.id/feed.xml" rel="self" />
     <link href="https://www.hobikamu.id" />
-    <updated>2023-05-15T04:46:06+07:00</updated>
+    <updated>2023-05-15T04:58:37+07:00</updated>
     <author>
         <name>Nami</name>
     </author>
@@ -318,8 +318,9 @@
         <link href="https://www.hobikamu.id/lingerie-apa-itu-dan-berbagai-macamnya.html"/>
         <id>https://www.hobikamu.id/lingerie-apa-itu-dan-berbagai-macamnya.html</id>
         <media:content url="https://www.hobikamu.id/media/posts/9/f891c12eae7b4041b65b8bc17a440710.jpeg" medium="image" />
+            <category term="Fashion"/>
 
-        <updated>2023-05-13T10:20:09+07:00</updated>
+        <updated>2023-05-15T04:58:37+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.hobikamu.id/media/posts/9/f891c12eae7b4041b65b8bc17a440710.jpeg" alt="" />
