@@ -3,7 +3,7 @@
     <title>hobikamu.id</title>
     <link href="https://www.hobikamu.id/feed.xml" rel="self" />
     <link href="https://www.hobikamu.id" />
-    <updated>2023-09-28T20:15:48+07:00</updated>
+    <updated>2023-09-28T20:22:44+07:00</updated>
     <author>
         <name>Nami</name>
     </author>
@@ -17,8 +17,10 @@
         <link href="https://www.hobikamu.id/kisah-danau-toba-penciptaan-dan-keajaiban-di-tanah-batak.html"/>
         <id>https://www.hobikamu.id/kisah-danau-toba-penciptaan-dan-keajaiban-di-tanah-batak.html</id>
         <media:content url="https://www.hobikamu.id/media/posts/35/0-7.jpg" medium="image" />
+            <category term="Sejarah"/>
+            <category term="Cerita Rakyat"/>
 
-        <updated>2023-09-28T20:15:48+07:00</updated>
+        <updated>2023-09-28T20:22:44+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.hobikamu.id/media/posts/35/0-7.jpg" alt="" />
